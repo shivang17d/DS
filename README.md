@@ -10,3 +10,7 @@ Assignment4 Command
 
 Assignment5 Command
 ![Screenshot from 2024-04-22 19-50-58](https://github.com/shivang17d/DS/assets/86548591/8ef09418-ff3d-4739-87e8-cb3d032f5b9b)
+
+
+Assignment6 Command
+![Screenshot from 2024-04-22 19-53-18](https://github.com/shivang17d/DS/assets/86548591/8f78b54d-2265-4dcc-9bd1-5858f59396dd)
