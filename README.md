@@ -8,4 +8,5 @@ Assignment3 Command
 Assignment4 Command
 ![Screenshot from 2024-04-22 19-44-46](https://github.com/shivang17d/DS/assets/86548591/8b74874e-e70e-405f-8a75-8a706aa67e5c)
 
-
+Assignment5 Command
+![Screenshot from 2024-04-22 19-50-58](https://github.com/shivang17d/DS/assets/86548591/8ef09418-ff3d-4739-87e8-cb3d032f5b9b)
